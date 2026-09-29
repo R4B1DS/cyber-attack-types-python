@@ -46,8 +46,8 @@ All 3 open test cases passed on the DIO platform.
 
 ## Screenshots
 
-![Challenge description](challenge-description.png)
-![Open tests passed](tests-1-2.png)
+![Challenge description](challenge-description.png.png)
+![Open tests passed](tests-1-2.png.png)
 
 ## Key Concepts
 
