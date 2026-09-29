@@ -59,4 +59,4 @@ All 3 open test cases passed on the DIO platform.
 
 **Nicolas Borges Ocampos**
 Cybersecurity student | Aspiring SOC / Blue Team analyst
-[LinkedIn](https://linkedin.com/in/nicolas-borges-512411402)
+[LinkedIn](https://www.linkedin.com/in/nicolas-borges-ocampos/)
