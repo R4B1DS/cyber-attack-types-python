@@ -44,6 +44,11 @@ All 3 open test cases passed on the DIO platform.
 | #2 | DDoS | Passed |
 | #3 | Malware | Passed |
 
+## Screenshots
+
+![Challenge description](challenge-description.png)
+![Open tests passed](tests-1-2.png)
+
 ## Key Concepts
 
 - **Phishing:** fraudulent messages (email, SMS, fake sites) that impersonate trusted entities to steal credentials or data.
