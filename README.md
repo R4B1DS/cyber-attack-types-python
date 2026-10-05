@@ -65,3 +65,8 @@ All 3 open test cases passed on the DIO platform.
 **Nicolas Borges Ocampos**
 Cybersecurity student | Aspiring SOC / Blue Team analyst
 [LinkedIn](https://www.linkedin.com/in/nicolas-borges-ocampos/)
+
+## AI Assistance
+
+> I used AI tools only to help organize the repository, improve the README structure, and make minor code corrections. The exercises and solutions are my own work, developed as part of the Santander Cybersecurity Bootcamp.
+
